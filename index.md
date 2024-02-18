@@ -4,3 +4,4 @@
 #### smaller
 ##### even smaller
 ###### Haven't used github in a while, this is a nice refresher :3
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
