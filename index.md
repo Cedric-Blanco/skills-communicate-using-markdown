@@ -10,3 +10,6 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 
 var myVar = "Hello, World!";
+- [ ] Edit my about me after this assignment.
+- [ ] Figure out what the final project would be.
+- [ ] Finally tell my discrete math professor that he needs to chill.
